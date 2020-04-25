@@ -1,0 +1,43 @@
+body{
+    background-color: #fff3f0;
+	color: #72b3a2;
+	font-family: courier new;
+	
+}
+
+p {
+	font-family: courier new;
+	color: #72b3a2;
+	font-size: 20px;
+	
+}
+
+h1 {
+	font-family: courier new;
+	color: #72b3a2;
+	font-size: 40px;
+	
+}
+
+#submitBTN {
+	    
+		font-family: courier new;
+		color: white;
+		font-size: 20px;
+		background-color: #b38f84;
+		
+		
+}
+
+
+@media (max-width:480px){
+	
+
+p {
+	font-size: 15px;
+}
+	
+h1 {
+	font-size: 20px;
+}	
+}
